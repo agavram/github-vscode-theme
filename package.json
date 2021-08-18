@@ -1,10 +1,10 @@
 {
-	"name": "github-vscode-theme",
-	"displayName": "GitHub Theme",
-	"description": "GitHub theme for VS Code",
-	"version": "4.1.1",
+	"name": "github-vscode-theme-minimal",
+	"displayName": "GitHub Theme Minimal",
+	"description": "GitHub theme for VS Code, but modified for simplicity",
+	"version": "4.1.2",
 	"preview": true,
-	"publisher": "GitHub",
+	"publisher": "agavram",
 	"license": "MIT",
 	"icon": "icon.png",
 	"galleryBanner": {
@@ -13,10 +13,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/primer/github-vscode-theme"
+		"url": "https://github.com/agavram/github-vscode-theme"
 	},
 	"bugs": {
-		"url": "https://github.com/primer/github-vscode-theme/issues"
+		"url": "https://github.com/agavram/github-vscode-theme/issues"
 	},
 	"engines": {
 		"vscode": "^1.43.0"
